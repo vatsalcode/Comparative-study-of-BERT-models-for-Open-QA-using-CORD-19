@@ -1,0 +1,2 @@
+# Comparative-study-of-BERT-models-for-Open-QA-using-CORD-19
+This work caters to extract the relevant documents from the recent CORD-19. Encoder-mapper based model: encoder - to create clusters from the contextual embeddings using BERTbase, SciBERT and BioBERT; mapper - to find the most relevant cluster to answer a user provided question based on coronavirus; and then, analyse the results from each BERT variant.
